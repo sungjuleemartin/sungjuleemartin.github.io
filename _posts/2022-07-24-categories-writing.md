@@ -1,6 +1,6 @@
 ---
 title: "Revised Excerpt of Impact of Immigration on the Economy: Immigrants and GDP per Capita"
-excerpt: "Writing Sample"
+excerpt: "Essay"
 
 categories:
   - Writing Sample
