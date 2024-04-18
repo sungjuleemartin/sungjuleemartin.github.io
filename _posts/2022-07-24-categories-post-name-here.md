@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /Economics/post-name-here/
+permalink: /Economics1/post-name-here/
 
 toc: true
 toc_sticky: true
