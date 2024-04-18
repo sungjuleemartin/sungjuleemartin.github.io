@@ -1,5 +1,5 @@
 ---
-title: "Revised Excerpt of Impact of Immigration on the Economy: Immigrants and GDP per Capita"
+title: "Revised Excerpt from Impact of Immigration on the Economy: Immigrants and GDP per Capita"
 excerpt: "Essay"
 
 categories:
@@ -16,7 +16,7 @@ date: 2024-04-18
 last_modified_at: 2024-04-18
 ---
 
-## Revised Excerpt of "Impact of Immigration on the Economy: Immigrants and GDP per Capita" 
+## Revised Excerpt from "Impact of Immigration on the Economy: Immigrants and GDP per Capita" 
 by Sungju Lee
 
 
