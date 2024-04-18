@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
@@ -25,8 +25,8 @@ subtitle: # site tagline that appears below site title in masthead
 name: "Sungjuleemartin" # 블로그 닉네임 설정
 description: "Trial" # 블로그 설명
 url: "https://sungjuleemartin.github.io" # 블로그 URL
-#baseurl: ""# the subpath of your site, e.g. "/blog"
-repository: "sungjuleemartin.github.io" # GitHub Repo 이름
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "sungjuleemartin/sungjuleemartin.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
