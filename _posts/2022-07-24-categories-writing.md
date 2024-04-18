@@ -1,5 +1,5 @@
 ---
-title: "Writing Sample: Impact of Immigration on the Economy: Immigrants and GDP per Capita"
+title: "Revised Excerpt of Impact of Immigration on the Economy: Immigrants and GDP per Capita"
 excerpt: "Writing Sample"
 
 categories:
@@ -16,10 +16,7 @@ date: 2024-04-18
 last_modified_at: 2024-04-18
 ---
 
-## 🦥 Excerpted and revised from
-
-Impact of Immigration on the Economy: 
-Immigrants and GDP per Capita 
+## Revised Excerpt of "Impact of Immigration on the Economy: Immigrants and GDP per Capita" 
 by Sungju Lee
 
 
