@@ -27,6 +27,8 @@ Educational Achievement는 Bachelor's degree 즉 학사 학위를 취득함을 �
 
 STEM 이란 Science, Technology, Engineering, Mathmetics의 준말로 과학, 기술, 공학, 수학을 합쳐 부르는 말입니다. 한국으로 치면 이공 계열과 흡사합니다.   
 
+뒤에 나올 figures는 minitab으로 제작한 것을 excel로 표기한 것입니다. 
+
 ## figure1
 
 ## figure2
