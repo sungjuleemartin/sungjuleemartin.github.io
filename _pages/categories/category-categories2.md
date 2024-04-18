@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Statistics"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/Statistics/
 author_profile: true
-taxonomy: Categories2
+taxonomy: Statistics
 sidebar:
   nav: "categories"
 ---
