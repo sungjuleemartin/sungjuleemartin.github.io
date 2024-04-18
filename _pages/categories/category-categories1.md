@@ -1,7 +1,7 @@
 ---
 title: "Economics"
 layout: category
-permalink: /categories/Economics/
+permalink: /categories/economics/
 author_profile: true
 taxonomy: Economics
 sidebar:
