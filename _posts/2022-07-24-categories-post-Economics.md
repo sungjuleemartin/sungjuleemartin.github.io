@@ -1,6 +1,6 @@
 ---
 title: "Wage Differential and the Gender Pay Gap"
-excerpt: "Multilinear Regression "
+excerpt: "남녀임금격차는 어떻게 줄어드는가?"
 
 categories:
   - Economics
@@ -16,8 +16,13 @@ date: 2024-04-18
 last_modified_at: 2024-04-18
 ---
 
-## 🦥 Wage Differential and Gender Pay Gap 
+## 🦥 Crude Birth Rate, Median Earning, Gender Pay Gap, Educational Achievement, STEM 에 관한 설명 
 haha
 
-## 2번
-haha
+## figure1
+
+## figure2
+
+## figure3 
+
+## figure4
