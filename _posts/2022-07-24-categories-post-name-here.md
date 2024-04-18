@@ -3,11 +3,11 @@ title: "첫번째 포스팅"
 excerpt: "github 존나 어려움"
 
 categories:
-  - Categories1
+  - Economics
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here/
+permalink: /Economics/post-name-here/
 
 toc: true
 toc_sticky: true
